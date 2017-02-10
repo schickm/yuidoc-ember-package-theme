@@ -1,8 +1,8 @@
 {
-    "name": "zebkit",
+    "name": "ember-package",
     "description": "UI rendered on HTML5 Canvas",
     "version": "2.0.0",
-    "url": "http://zebkit.com/",
+    "url": "http://ember-package.com/",
     "options": {
         "linkNatives" : true,
         "helpers"     : [ "helpers/helpers.js" ]
